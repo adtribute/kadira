@@ -2,7 +2,7 @@ Package.describe({
   summary: 'Performance Monitoring for Meteor',
   version: '2.31.1',
   git: 'https://github.com/adtribute/kadira',
-  name: 'adtribute:kadira',
+  name: 'harrison:kadira',
 });
 
 const npmModules = {
